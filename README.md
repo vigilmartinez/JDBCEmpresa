@@ -1,2 +1,5 @@
-# JDBCEmpresa
-A small test project using JDBC to manage a SQL database of a company
+# Características principales
+✓ CRUD completo de usuarios
+✓ Conexión a base de datos MySQL
+✓ Arquitectura en capas (DAO)
+✓ Manejo de transacciones
